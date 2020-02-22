@@ -1,0 +1,20 @@
+{
+   "door" :{
+      "productId": 1,
+      "productName": "A green door",
+      "price": 12.50,
+      "tags": [ "home", "green" ]
+   },
+   "window" :{
+      "productId": 2,
+      "productName": "A clear door",
+      "price": 412.50,
+      "tags": [ "home", "clear" ]
+   },
+   "roof" :{
+      "productId": 3,
+      "productName": "A green door",
+      "price": 1222.50,
+      "tags": [ "home", "red" ]
+   }
+}
